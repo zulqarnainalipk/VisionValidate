@@ -4,7 +4,8 @@ A deep learning-based project to classify autonomous driving scenes as **real** 
 ---
 
 
-![Project Banner](vision validate.jpeg)
+![Project Banner](vision%20validate.jpeg)
+
 
 
 
